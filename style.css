@@ -1,0 +1,19 @@
+h1, h2 {
+  font-family: Fira Code;
+  padding-left: 4em;
+  padding-right: 4em;
+  padding-top: 8em;
+  text-align: center;
+  color: white;
+  size: 40px;
+}
+p {
+  font-family: Fira Code;
+  padding-left: 4em;
+  padding-right: 4em;
+  text-align: center;
+  color: white;
+}
+body {
+  background-color: black;
+}
